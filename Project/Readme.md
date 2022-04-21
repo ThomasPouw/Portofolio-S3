@@ -13,8 +13,12 @@ But just as a joke I looked at the documentation of Angular. And i just kind of 
 How the folders are structured. A component in Angular has the css/scss, the html, and the typescript file in one folder, while in other frameworks that would be bad practice and they would be in atleast 3 other folders.
 I just like the structure more of Angular then other frameworks.
 
+[Link to my frontend Code](https://github.com/ThomasPouw/TrickingEnigma-Frontend)
+
 ## Backend 
 
 For the Backend i am using Java SpringBoot. The reason for it is because i failed my last semester 3 and so i decided to use Java SpringBoot again as i did not do justice to it last time. 
 The reason why i said i did not do it justice is because i can see that Java is a beautiful language. But that i just buthered it last time. 
 As i was way to focused on a sinking ship called my frontend.
+
+[Link to my backend Code](https://github.com/ThomasPouw/TricklingEnigma-Backend)
