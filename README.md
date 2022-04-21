@@ -7,7 +7,7 @@ Ofcourse i am gonna talk about my project, documents and learning outcomes.
 In this Folder you will find the Project Plan and the Research folder. Within the research folder you will find the paper on Colour Psychology and the spreadsheet with the results of my survey.
 
 ## Project
-In the Project Folder you will find the full project with everything attached. So be careful with when you download this repository. Ofcourse i will tsalk a bit more about my project in that folders README.
+In the Project Folder you will find the full project with everything attached. So be careful with when you download this repository. Ofcourse i will talk a bit more about my project in that folders README. You will find the link to my code in the links. 
 
 ## Learning Outcomes
 
