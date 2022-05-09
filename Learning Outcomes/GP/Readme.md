@@ -13,6 +13,8 @@ Every Group project day we do a standup and while we said we also would do stand
 For cultural differences and ethics, I do everything I can to not offend anyone without losing my Dutch ways. So, I will be direct, but I will not be rude in that directness. 
 Of course, there are still blunders like arguing that an hour travel is way too much with people from Syria and Turkey. 
 But even then, I will apologize when I see the point they were making. And how my point of view was 100% Dutch and so was biased.
+But knowing cultural and religious differences is also important. If you know somebody is for example Muslim you do not offer him cookies during Ramadan or offer them a meat dish that is not Hallel, or offer an Indians anything beef. You do not do that because Cows are sacred in India. And you should respect the cultures of others. Even when some ideals are completely the opposite from yourself.
+
 
 And when it comes to ethics it is a bit more difficult. As ethics comes down to morals. For example: What is the line for attracting people to your product? is it spamming add campaigns? is it making your game addictive or just making a good game first. My answer would be the first one. As the first one would detract customers and the second one would get you maybe even banned from certain countries. As one way to make game addictive is loot boxes. And a lot of countries count that as gambling as you could use real world money to buy loot boxes. For that reason, games like Super Mario Run and Mario Kart Tour are banned in countries like Belgium. I am saying it because like I said ethics is a weird concept. As it boils down to "Do not make a product to addicting and flashy".
 
