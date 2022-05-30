@@ -16,8 +16,9 @@ in the databse will just be the unique id of the Auth0 logged in user.
 
 ## 4. CI/CD
 With CI/CD we mean **continuous integration** and **continuous deployment** for that we use things like github action for CI and things like Docker for the CD part.
+CI/CD now works for both the frontend and the backend. Although the frontend part does not have any testing yet. As there is a problem with karma and looking for the tests.
 
-I havent touched docker yet but i do have the CI part set up a bit although the frontend doesnt 100% work yet as i fails everytime without reason.
+when it sees a new commit on the master branch it will run the CI/CD. It wont upload the commit to for example heroku if it has an error. As that means that the product is not up to level. And so it would not be smart to upload it to the CD. As for CD your CI needs to be correct. 
 
 ## 8. Professional 
 With professionalism we dont just mean acting professional but also doing things like this. Writing this down and doing paperwork. 
