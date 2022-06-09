@@ -13,13 +13,15 @@ But just as a joke I looked at the documentation of Angular. And I just kind of 
 How the folders are structured. A component in Angular has the CSS/SCSS, the html, and the typescript file in one folder, while in other frameworks that would be bad practice and they would be in at least 3 other folders.
 I just like the structure more of Angular then other frameworks.
 
+
 [Link to my frontend Code](https://github.com/ThomasPouw/TrickingEnigma-Frontend)
 
 ## Backend 
 
 For the Backend I am using Java SpringBoot. The reason for it is because I failed my last semester 3 and so I decided to use Java SpringBoot again as I did not do justice to it last time. 
-The reason why I said I did not do it justice is because I can see that Java is a beautiful language. But that I just butchered it last time. 
-As I was way too focused on a sinking ship called my frontend.
+The project is a microservice based ***One***, what that means is that the backend project is actually 3 smaller projects in one. The idea behind microservices is that you can reuse parts of your services for other applications. And in my application you can resonable do that with 2 and maybe with the last one as well. But that is more because Record was made as with the idea that it would need help from the two sides. But for both Level and User they can be used for other applications. As level also includes Sprite and LevelSprite. And User has Nationality.
+
+What i meant with Level, LevelSprite and Sprite is that a level has ofcourse sprites. But you do not want just sprites in your level. As it will just be all on 0,0. As they do not know where they should stand. So LevelSprite is there as a way for sprite to hold a bit more information without touching sprite directly. So now a sprite has a general coords of where it is placed.
 
 [Link to my backend Code](https://github.com/ThomasPouw/TricklingEnigma-Backend)
 
