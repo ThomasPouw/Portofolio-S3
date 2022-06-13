@@ -28,3 +28,7 @@ In the Backend Test will be happening in the build phase as that is how *mvn cle
 ## 8. Professional 
 With professionalism we dont just mean acting professional but also doing things like this. Writing this down and doing paperwork. 
 As this could help in the future when you or probarbly someone else picks up the project. The have to know what you were thinking on this moment. Thats why doing the paper work is nessesary.
+
+When it comes to talking to teachers/project owners/people that are higher on the hierarcy. I know that i have to respect them and listen to them. 
+That does not mean that I should not talk back as sometimes their ideas can be that their idea is not the best in the current situation. 
+As in the end I know how much I can do in a certain amount of time. As it is not the best idea to disappoint the project owner just because you said yes to all of the demands of them. So sometimes you have to keep the project owner and you on the same level. Sometimes you have to go higher/lower and sometimes the project owner has to go higher/lower. As a healty relation between project owner and you is a relation with the least amount of fear and the most amount of trust.
