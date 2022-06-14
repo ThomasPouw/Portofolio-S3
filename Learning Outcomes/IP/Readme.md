@@ -15,8 +15,7 @@ At the moment i am starting to get this proces. As i am to delete generic names 
 ## 2. Software quality
 In the Software quality department i have to learn how to efficiantly montitor and secure my code and program. At the moment i havent done any testing.
 I am still planning to do that but thing keep popping up that are a bit more important.
-But for the security part. I just made the login. It isnt linked yet to anything but atleast there is a start. I am gonna put the responce that Auth0 gives me into a JSON webtoken and use that instead of just leaving the responce as it is. 
-in the database will just be the unique id of the Auth0 logged in user.
+iBut for the security part. I just made the login. It isnt linked yet to anything but atleast there is a start. I wanted to have a whole auth0 system, but sadly because i am using Auth0 single page application i can not use the managment API key and so its almost impossible to do anything with roles as to unlock them you need that key. I know you can get that key with a machine-to-machine application and if i had more time i would off asked somebody to help me setting it up. But sadly because of time restrains it is put on the same pile as worlds and fixing that weird bug where the level will not load correctly. But i do know how Roles and Permissins work as i did a whole research paper about it. 
 
 ## 4. CI/CD
 With CI/CD we mean **continuous integration** and **continuous deployment** for that we use things like github action for CI and things like Docker for the CD part.
