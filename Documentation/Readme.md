@@ -12,6 +12,8 @@ In the spreadsheet the colours will be named under the results.
 As I did not know that google forms made the results into spreadsheets. 
 And I did not want to say the colours as the colour name can give people the first word for free. Colours like aqua. 
 
+The other research was a more simpeler one. As it was research on Roles and Permissions in java. Sadly the new found knowledge got unused this semester because of time restrainse. now i atleast know what to do when i use everything exept single page application. As to access Roles and permissions you need the managment key, which you can not get with just a SPA. you need a web application for that. And sadly i found out to late to change it.
+
 ## Project Plan
 Here we have my project plan. 
 The original plan and so is not updated yet with my current idea. 
