@@ -13,6 +13,8 @@ But just as a joke I looked at the documentation of Angular. And I just kind of 
 How the folders are structured. A component in Angular has the CSS/SCSS, the html, and the typescript file in one folder, while in other frameworks that would be bad practice and they would be in at least 3 other folders.
 I just like the structure more of Angular then other frameworks.
 
+Sadly i can not do everything i planned. As things like Worlds, a levelcreator and 'Roles and permissions' were put on the pile of things that i would not do. As worlds would be useless without a levelcreator and for roles and permissions i would of needed to have a machine-to-machine application. And because of time restrains i just could not do that. 
+
 
 [Link to my frontend Code](https://github.com/ThomasPouw/TrickingEnigma-Frontend)
 
