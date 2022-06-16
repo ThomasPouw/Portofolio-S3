@@ -17,8 +17,6 @@ For design i had some made... ofcourse it changed over time but here is the desi
 
 
 
-![image](https://user-images.githubusercontent.com/90248008/174054166-1f2d2788-07a8-4a65-8b25-78abb7f7cda8.png)
-
 (Unused because of lack of idea how it should work + time)
 
 ![image](https://user-images.githubusercontent.com/90248008/174053695-b21d3b1b-7041-46b2-aff4-c257a4b2c5c9.png)
@@ -53,6 +51,11 @@ Just combined with User
 In the Software quality department i have to learn how to efficiantly montitor and secure my code and program. At the moment i havent done any testing.
 I am still planning to do that but thing keep popping up that are a bit more important.
 iBut for the security part. I just made the login. It isnt linked yet to anything but atleast there is a start. I wanted to have a whole auth0 system, but sadly because i am using Auth0 single page application i can not use the managment API key and so its almost impossible to do anything with roles as to unlock them you need that key. I know you can get that key with a machine-to-machine application and if i had more time i would off asked somebody to help me setting it up. But sadly because of time restrains it is put on the same pile as worlds and fixing that weird bug where the level will not load correctly. But i do know how Roles and Permissins work as i did a whole research paper about it. 
+
+For testing i did unit testing as it the basic type of testing. Ofcourse that is not the only type of testing i did as you can see the testing of the component modules as a kind of integration tests. As when you test for example routing you do involve other units as it will load them and it will let you know when something does not work. As 
+
+As it involves other units of the program. At the table alone you need to ask three parts of the store. the User part, the Nationality part and the level part. And to make those part you need mulpital methods. That work together to get the information from the backend to the frontend. Ofcourse that is how it ussually works, but while testing i block the sending of the urls and just put the information it needs into the state. 
+So in that sense i use integration testing to test if certain things work as intendid. As you do want all the information you asked for in a table to acually arrive and be displayed correctly. The game itself is also part of a integration test as it starts in a component
 
 ## 4. CI/CD
 With CI/CD we mean **continuous integration** and **continuous deployment** for that we use things like github action for CI and things like Docker for the CD part.
