@@ -10,6 +10,43 @@ At the moment i am starting to get this proces. As i am to delete generic names 
 
 [Link to where i talk about my code](https://github.com/ThomasPouw/Portofolio-S3/tree/main/Project)
 
+For design i had some made... ofcourse it changed over time but here is the design as i had it in my head when i first started.
+![image](https://user-images.githubusercontent.com/90248008/174053551-8bdbad64-f6e7-4bbe-8b81-c1e2cfea3a7b.png) 
+
+![image](https://user-images.githubusercontent.com/90248008/174053616-9e5d4615-2248-477b-bcc2-f3a3149b4995.png)
+
+
+
+![image](https://user-images.githubusercontent.com/90248008/174054166-1f2d2788-07a8-4a65-8b25-78abb7f7cda8.png)
+
+(Unused because of lack of idea how it should work + time)
+
+![image](https://user-images.githubusercontent.com/90248008/174053695-b21d3b1b-7041-46b2-aff4-c257a4b2c5c9.png)
+
+(Unused because of lack of idea of editor + other method of making sprites.) 
+
+![image](https://user-images.githubusercontent.com/90248008/174054244-3c304c07-e8a8-4c3c-a633-cd062ed6f736.png)
+
+(Unused because of SPA does not have access of Roles and Permissions)
+
+![image](https://user-images.githubusercontent.com/90248008/174053899-55395702-ba25-4e56-980a-4cf9fe091711.png)
+
+(Unused because of SPA does not have access of Roles and Permissions)
+
+![image](https://user-images.githubusercontent.com/90248008/174053932-a10999fc-f04d-4a52-b41d-37bd3ebb0823.png)
+
+![image](https://user-images.githubusercontent.com/90248008/174054394-7b43c31b-ca2f-4324-8900-0c2b815cd509.png)
+
+
+
+![image](https://user-images.githubusercontent.com/90248008/174054440-2be36650-9de3-4cb3-8856-96573b5eb4b6.png)
+
+Just combined with User
+
+![image](https://user-images.githubusercontent.com/90248008/174054502-50a6ce85-958e-4a6f-b706-c0ef3ed5f723.png)
+
+
+
 
 
 ## 2. Software quality
