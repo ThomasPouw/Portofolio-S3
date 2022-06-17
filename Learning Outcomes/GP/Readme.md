@@ -14,8 +14,14 @@ But i think the final nail in the coffin was the fact that we just needed to kno
 
 But ofcourse like i said we did have a scrum master, even though it never changed and it was a scrum master in name alone. What we did have is a sprint planning that was maybe a bit unbalanced. As I as part of the back end team sometimes had to make up tasks to keep me busy. Thats how things like try-catch and backend testing started. As a way for me to do something. 
 
-But i do know things about scrum because of last semester  
-# !!!!!!!!!!!!!!!!!!!
+But i do know things about scrum because of last semester where a my group and I researched agile methods together. There we learned about the "Agile Project Managment" and its core priniples of "Transparentcy", "Customer Focus", "Adaptability", "Sense of Ownership" and "Continious Improvement". What it doiles doen to is that this system is made to lower downtime and increase customer satifaction. By making it so that the customer and the programming team has constant contact and a easy way to give and recieve new or updated ideas/feedback.
+
+There is also the DSDM system that focuses more on deviding roles. With the "Visionary" being the person in the team that gives high perority to certain things and lower to others. He/She is the planner of the group. 
+The "Project Manager" that just controles the overall project.
+The "Team Leader" that is responsible for coordination and facilitating collaboration. 
+The "Solution Developer", The one who looks at the requirements and mainly prototypes and code the programs
+And last but not least the "Solution Tester", who sole purpose is to test the product and give feedback on what to improve and change. He/She does that by writing tests and when the Solution Developer changes anything the Tester has to redo there tests.
+This is not the full list of roles that DSDM implements as there are 13 roles in [DSDM](https://www.agilebusiness.org/page/ProjectFramework_07_RolesResponsibilities).
 
 ## Cultural differences and ethics
 For cultural differences and ethics, I do everything I can to not offend anyone without losing my Dutch ways. So, I will be direct, but I will not be rude in that directness. 
@@ -25,7 +31,12 @@ But knowing cultural and religious differences is also important. If you know so
 
 When I meet new people for the first time or just got a job you will see that I slowly start testing the waters of what is allowed and what not. I do that by very light jokes (jokes that are not racist, sexist, religious or any other things that can have a negative effect.). I will also try to learn how much of the internet they know as some jokes only make sense when you know the internet. Jokes like how France, Ohio and Australia do not exist. I will only joke about that when i know the person will get it. 
 
-When it comes to authority in companies, it is a bit weird. As I do a kind of a hybrid system of the two sides of hierarchy. As I respect the people higher them me, but I still sometimes ask them for a casual chat. Of course, even in a casual chat I will be respectful to the other person if they care a lot about hierarchy. Of course, if I know that a person is from a country like Japan where hierarchy is everything, I will not make a casual conversation with the person. As it will just confuse/anger them more than the conversation is worth. What i mean by this whole paragraph is that I take an around 50/50 approach when it is about people's cultures. As i find person preferences a bit more important. As not everybody really fits the cultural normal, and sometimes they even work better outside of the cultural jail they created for themselves because they had to act a certain way. I am not saying everybody is trapped. Just that some are. 
+When it comes to authority in companies, it is a bit weird. As I do a kind of a hybrid system of the two sides of hierarchy. As I respect the people higher them me, but I still sometimes ask them for a casual chat. Of course, even in a casual chat I will be respectful to the other person if they care a lot about hierarchy. Of course, if I know that a person is from a country like Japan where hierarchy is everything, I will not make a casual conversation with the person. As it will just confuse/anger them more than the conversation is worth. What i mean by this whole paragraph is that I take an around 50/50 approach when it is about people's cultures. As i find person preferences a bit more important. As not everybody really fits the cultural normal, and sometimes they even work better outside of the cultural jail they created for themselves because they had to act a certain way. I am not saying everybody is trapped. Just that some are. Ofcourse Hierarcy is not  the only way that cultures differ as conceps of indivualism vs collectivism, uncertainty avoidance, masculinity vs feminity, long term orientation vs short-term orientation and indulgence vs restraints also exist as a source of the [memes](https://en.wikipedia.org/wiki/Meme) 
+
+As an example of two of the points in more femininan cultures both males and females are more emotion driven and both have the same load when it comes with dealing with there family. While more masculine cultures have it so that the female has the load of the family, while the male is not very concerned what happens with there family. Atleast when it goes right, when something goes wrong he will look at that situation like its a fact. With less emotions that the femininan male counterpart.
+For countries to compare see countries like Japan vs The Netherlands. Japan scores a 95 in Masculinity while The Netherlands scores a 14. You can see that differents emediatly. As for example when a dad hears that his son or daughter did bad at school. The Dutch father tries to calm there child down and maybe even helps them. While japanese fathers are more stern and see any fail as a real failure. And it just means that that child did not learn enough. Ofcourse this is just an example. In every community its different. And there is a reason why the scale is from 1 to 120. So even if Japan is number 1 in the world in Masculinity it does not mean that all parents are like this. Just alot of them and even the parents that arent like this all the time have traites of this. Same with the Netherlands but then reversed. 
+
+For the long term orientation vs short-term orientation i can talk about the almost poster child of long term orientation: China and its very fast rise as a superpower. As there whole plan was almost planned to detail. With everybody wanting to succeed in life for the long term. So if they buy anything be it building or stocks. If it can be a success in the long term they will do it. They do not really care about the short term. Or atleast not as much as other countries would.
 
 And when it comes to ethics it is a bit more difficult. As ethics comes down to morals. For example: What is the line for attracting people to your product? 
 Is it spamming ad campaigns? Is it making your game addictive or just making a good game first? My answer would be the first one as even spam ads is already bad, but at least it is not as bad as the others. As the first one would detract customers and the second one would get you maybe even banned from certain countries. As one way to make game addictive is loot boxes. And a lot of countries count that as gambling as you could use real world money to buy loot boxes. For that reason, games like Super Mario Run and Mario Kart Tour are banned in countries like Belgium. I am saying it because like I said ethics is a weird concept. As it boils down to "Do not make a product to addicting and flashy". 
@@ -42,6 +53,28 @@ For the groups project i did the CRUD of Ingredient, IngredientCategory and Orde
 But i get why it was cut as it would off meant that the frontend team had to implement some extra logic into checking if an menuitem had an allergen withit that was already warned about in the basket. Like i said i get it now, even though i may been a bit unprofessional at the time talking about it. But that was also just a timing thing, as i was a bit irritated by the fact that some were way to late. Even though i made it very clear that coming to late again would have concequences. Even though i really  meant concequences with the teacher and the coming late thing never improved i still think i over reacted a bit, just by the fact that i still felt disappointed a few hours later. 
 For testing I started to test the backend without obligation, as I saw that the backend did not have enough tasks for that sprint for 3 people. So, I asked the group if I could start testing and while waiting, I started on the testing plan for the backend. If they would have said no I would of argued with them about how important testing is and how it is not the best practice to delay testing any longer.
 
+Early one we made designs in figma, i started with the idea of how it should look like with help of Hisham and the others. Here is even the [link](https://www.figma.com/file/1AfJLb3fnfaxN8q6pbGCCg/Restaurant-Menu?node-id=0%3A1) to the progrma we used. 
+
+![image](https://user-images.githubusercontent.com/90248008/174266488-b4ed4f95-29f8-4a17-a107-16662f8ccd9d.png)
+![image](https://user-images.githubusercontent.com/90248008/174262097-41314bba-2127-4c67-9c5f-f940afab5e9e.png)
+![image](https://user-images.githubusercontent.com/90248008/174262127-e7d5e5ad-aeab-4973-8c88-e77b9c677357.png)
+![image](https://user-images.githubusercontent.com/90248008/174262224-7083b99f-809a-423a-b284-d4afa448d32d.png)
+![image](https://user-images.githubusercontent.com/90248008/174262281-b9484cb6-0dfc-4219-8cbd-d978b90afbe0.png)
+![image](https://user-images.githubusercontent.com/90248008/174262316-9e846b45-1476-4360-91c3-4e584cb7cf7b.png)
+![image](https://user-images.githubusercontent.com/90248008/174262359-0d9fae8d-a046-4159-859d-393070334c30.png)
+![image](https://user-images.githubusercontent.com/90248008/174262388-7efab5b1-fc92-4b78-afb1-0e9ec01e3191.png)
+
+Ofcourse not all early designs made it in the final product. As most of them were made by Hisham and me. We were both part of the backend team. And we just gave the frontend team a design to work from. Ofcourse after we have them these designs they looked also at simular program like Butlaro 
+
+![image](https://user-images.githubusercontent.com/90248008/174262842-b2e9b8c7-f110-4aed-878e-3adaacd287bf.png)
+
+Domino's
+![image](https://user-images.githubusercontent.com/90248008/174262932-1e0ca8c7-2e1c-4489-ab65-d630f7ed8771.png)
+
+and Yemeksepeti
+![image](https://user-images.githubusercontent.com/90248008/174263357-4b75f2e9-10df-407b-9a79-824368820032.png)
+
+From that they came to the design we have today. And they really did a great job if i have to say that myself.
 ## Business Processes
 While I am not the best at talking, the explaining of business processes is going oke. But that is more because of me second guessing myself every time I talk. But I am getting help for that, or at least the main problem of "What do other people think of me". But when you see me talking with confidents you see that I know my stuff. And I will tell it to you as good as I can as slow as I can. So, if something can better be said in 500 words, I will use those 500 words and I will not shorten it to 100. I know how important it is to take things slowly and how easy language is more important than being fancy. 
 
