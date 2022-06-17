@@ -1,13 +1,20 @@
-To be honest, i think i did pretty good this semester. Of course i could done way better. 
-But from a mental health perspective i fdid gret. As there were no really big stress moments in this semester. 
-Ofcourse these last few weeks were a bit stressful, but that is natural. 
+To be honest, I think I did pretty good this semester. Of course, I could have done way better. 
+But from a mental health perspective I did great. As there were no big stress moments in this semester. 
+Of course, these last few weeks were a bit stressful, but that is natural. 
 
-When it comes to what i did. I am proud as i learned how typescrypt and angular work and how you can really use those two together. 
-I learned how to actually work with Java as i do not know what i did last semester with it, but coding was not one of them.
-And overall i learned to be more sure of myself and  not always be in the "self hate" corner. Maybe self hate is a strong word, it was more in the "Is this good?= no" category.
-But thanks to study coaching, the study psycholoog and the book "The Subtle Art of Not Giving a F* ck" by Mark Manson I learned how to just not give a shit about what people think of me and how my actions can somehow influence there perspective of me.
-Because that wa what it all was. My brain seeing 100 possibilities and being sad because it thought of 1000 negative once.
+When it comes to what I did. I am proud as I learned how TypeScript and angular work and how you can really use those two together. 
+I learned how to work with Java as I do not know what I did last semester with it, but coding was not one of them.
+And overall, I learned to be surer of myself and not always be in the "self-hate" corner. Maybe self-hate is a strong word, it was more in the "Is this good? = no" category.
 
-Ofcourse there are parts to improve. As that same brain still makes a few of those senarios and so makes it hard to really ask for feedback and during 1 on 1 talks make it so that i can not really talk. 
-As i will see the things that i did wrong instead off talking to the other. ANd then there is the things i could not do this semester, things like Worlds, a leveleditor and "Roles and Permissions"
-What i mean by the third one is any security that isnt just the single page application from auth0.
+So for Coding i learned how Angular, TypeScript, Java/SpringBoot and ASP.Net works. And although i worked with Java before, i did a really made job with it as i was just a mess at that point. And so everything i did while coding looked like a disaster. But now it does not look like as big of a disaster. Ofcourse it can still improve, but every person thinks that. As improving is natural. A subject you do not have to improve is a subject that does not exist.
+But thanks to study coaching, the study psychologist, and the book "The Subtle Art of Not Giving a F* ck" by Mark Manson I learned how to just not care about what people think of me and how my actions can somehow influence their perspective of me. As most off them do not care if I do certain things like buying a Lego set.
+Because that is what it all was. My brain seeing 100 possibilities and being sad because it thought of 1000 things that would be very bad for me. 
+Luckily, I do not have that problem as often anymore as for example I also had this same problem while buying stuff for myself, simple things like a this [Lego set](https://www.lego.com/nl-nl/product/assembly-square-10255?wgu=270975_1474775_16554573753954_b07f54cadd&wgexpiry=1663233375&cmp=AFC-AFFILIATENL-1265405-1474775-270975-2654525&wgclickid=270975_1474775_16554573753954_b07f54cadd). Just because I was thinking of how my parents would react when they saw that I bought this. Of course, this scenario was all just in my head as my parents do not care about what I do with my money, at least when the buying is healthy. If I go negative in the money department, they will talk about it. 
+
+My parents loved seeing the set. The reason of saying this is just to show the disconnect of reality and my brains reality. 
+So, thoughts that think about people indirectly is kind of fixed. But when it comes to interacting with people it still can go wrong as I am very bad at deciphering what people are actually thinking, and as I am my worst nightmare, I think they think negative of me. So, I am still working on this. And this will also improve my professionalism. As it will increase the times I talk to teachers and project holders and so also feedback/ideas. So, while we are talking it is not that I do not have any questions or that i do not want to talk. It is just a kind of stack overflow that is happening every time I talk to an important person. And I say stack overflow because I gotten sick multiple times already because of these fictional scenarios. Although just nausea and light headaches. It is still a lot when it happens on certain moments in time.
+
+As I will see the things that I did wrong instead of talking to the other. And then there is the things I could not do this semester, things like Worlds, a level editor and "Roles and Permissions"
+
+What I mean by the third one is any security that is not just the single page application from auth0.
+
