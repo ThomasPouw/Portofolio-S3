@@ -6,8 +6,6 @@ Atleast easy enough that you dont have to look at documentation everytime you wa
 That also means that nothing should be open to interpetation. you cant think that other people should know what you thought about just becasue its logical for you. 
 But the opiside is also true. As you dont have to explain everything all the time. you dont have to explain that 1+1 is 2.
 
-At the moment i am starting to get this proces. As i am to delete generic names and use conventional naming and using more spelling conventions in my code by programming language bases.
-
 [Link to where i talk about my code](https://github.com/ThomasPouw/Portofolio-S3/tree/main/Project)
 
 For design i had some made... ofcourse it changed over time but here is the design as i had it in my head when i first started.
@@ -61,8 +59,9 @@ CI/CD now works for both the frontend and the backend. Although the frontend par
 
 when it sees a new commit on the master branch it will run the CI/CD. It wont upload the commit to for example heroku if it has an error. As that means that the product is not up to level. And so it would not be smart to upload it to the CD. As for CD your CI needs to be correct. 
 In the Backend Test will be happening in the build phase as that is how *mvn clean install* works. And for the static code analysis, it is handeled by sonarcloud directly. As you will be asked which repositories has to be looked at. And because of that you will not find the command to activate the static code review in node.js.yml. The reason why i chose SonarCloud is quite simple. By recommendation. As i heard that SonarCloud was easy to set up, free and realible. Even then i was a bit careful and looked around at other choices. But in the end i just chosen SonarCloud. The reason why it is automiated is actually pretty funny as i did not know it did that. But in retrospect it does make sense as i did give it permission to look into the two repsoitories. 
+The Docker for the backend is split into 3. That is because if you put it together 2 will not open without a special script. And to show how these 3 Servives can work without knowing of each others existens i made it so that it just put in 3 docker repositories. It also fixes the problem of ports nicely as it just reads what port to expose. 
 
-Sadly there will be no frontend CD as there is a bug in either TypeScript/Angular or its just webdevelopment. Where it makes it so that the interface called *offscreencanvas* will not be seen by anything. And that interface is important as Pixijs uses it and Pixijs is the library that controles the board. The error only acurres when you build as you have to change the file in typscript/lib called lib.dom.d.ts and put in this just under the definition of HTML Element![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/90248008/174430026-87e64cdf-4f64-4228-a2bb-0c0494cd16a4.png)
+Sadly there will be no frontend CD as there is a bug in either TypeScript/Angular or its just webdevelopment. Where it makes it so that the interface called *offscreencanvas* will not be seen by anything. And that interface is important as Pixijs uses it and Pixijs is the library that controles the board. The error only acurres when you build as you have to change the file in typscript/lib called lib.dom.d.ts and put in this just under the definition of HTML Element. https://stackoverflow.com/questions/50831981/how-to-use-offscreencanvas-in-typescript-project ![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/90248008/174430026-87e64cdf-4f64-4228-a2bb-0c0494cd16a4.png)
 
 Ofcourse i talked with the teacher about it and after talking to him in the evening he said that i could stop trying to fix it as it will not change anything anymore as it is just broken. 
 ![image](https://user-images.githubusercontent.com/90248008/174430074-fab41700-aed1-4d14-ba90-d801607bb1af.png)
@@ -76,3 +75,5 @@ As this could help in the future when you or probarbly someone else picks up the
 When it comes to talking to teachers/project owners/people that are higher on the hierarcy. I know that i have to respect them and listen to them. 
 That does not mean that I should not talk back as sometimes their ideas can be that their idea is not the best in the current situation. 
 As in the end I know how much I can do in a certain amount of time. As it is not the best idea to disappoint the project owner just because you said yes to all of the demands of them. So sometimes you have to keep the project owner and you on the same level. Sometimes you have to go higher/lower and sometimes the project owner has to go higher/lower. As a healty relation between project owner and you is a relation with the least amount of fear and the most amount of trust.
+
+Sadly I still have a self convidence problem so talking can be a bit problematic at times. As i am a bit scared of what the other person thinks off me. Even if i already know that evenrything is fine. But i already knew that "solving" that was not really going to happen in one semester. As my convidence problems are rooted in my inability to understand what others are thinking sometimes, or so I think.
