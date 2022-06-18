@@ -18,3 +18,4 @@ As I will see the things that I did wrong instead of talking to the other. And t
 
 What I mean by the third one is any security that is not just the single page application from auth0.
 
+I also think i started off great when it came to planning, but around week 8 i lost count of the weeks and so i dropped all of my previous attemps at keeping controle over the weeks. But atleast it is better then normal. As Atleast this time i tried to plan, but i think my downfall was the fact that i could not really reference anything time related to the school week. As that is normally how i keep time. Not by the date, but with how long until x. And looks like i messed it up a little bit. But even that i am working on in my non school hours, as it is just healty to get a normal functional week planning. 
