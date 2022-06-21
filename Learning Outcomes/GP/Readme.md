@@ -2,7 +2,7 @@
 
 ## Web Application
 At the project I am more the person working on the backend, I am doing that because I wanted to see how ASP.net worked for myself and as I was using SpringBoot for my IP it just made sense for me. The code I make is based on the coding rules of C# and how Tycho writes his part of the code. As it is easier for me to change my coding style then Tycho as he was already familiar with ASP.net and I still needed to know how to do the backend in C#. 
-The Backend testing is as complete as was necessary for this semester. Of course, in later semesters I should really investigate all the test methods. and not just unit testing. But you cannot really do anything else in the backend. As it was just a highway to the database.
+The Backend testing is as complete as was necessary for this semester. Of course, in later semesters I should really investigate all the test methods. and not just unit testing. But you cannot really do anything else in the backend. As it was just a highway to the database. But it was interesting to see how ASP.Net actually worked as i only really saw it at a distance. That is because I was on the front-end team last semester. So, ye it was interesting to see how  ASP.Net works and i think if i have to chose between C# and Java again then I will maybe choose for ASP.net then. If the project calls for it. (So the project is more suited for C# and i did not see any other interesting programming languages first.)
 
 ## Agile Method
 We use the Scrum method, where Nour is the Scrum master and I keep the time. As I found that keeping time was not this groups strong suit. 
